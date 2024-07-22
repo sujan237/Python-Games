@@ -1,3 +1,4 @@
+# Simple python script to check whether you can vote or nor
 age = int(input("Please enter your age: "))
 
 if age >= 18:
