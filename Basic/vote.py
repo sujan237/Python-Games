@@ -1,7 +1,7 @@
-# Simple python script to check whether you can vote or nor
+# Simple python script to check whether you can vote or not
 age = int(input("Please enter your age: "))
 
 if age >= 18:
-    print("You are eligible to vote!")
+    print("You can vote!")
 else:
-    print("Sorry, you are not eligible to vote yet.")
+    print("Sorry, you can not vote yet.")
